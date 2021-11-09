@@ -6,5 +6,4 @@ public class Scratch {
 		System.out.println("Hello\nSri ram!");
 
 	}
-
 }
